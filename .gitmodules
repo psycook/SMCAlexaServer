@@ -1,0 +1,3 @@
+[submodule "apps/salesforce-skill"]
+	path = apps/salesforce-skill
+	url = https://github.com/psycook/SMCAlexaSkill

@@ -1,0 +1,28 @@
+{
+  "name": "smcalexaserver",
+  "version": "1.0.0",
+  "description": "My first alexa code",
+  "main": "server.js",
+  "dependencies": {
+    "alexa-app-server": "^2.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psycook/SMCAlexaServer.git"
+  },
+  "keywords": [
+    "alexa",
+    "heroku",
+    "salesforce"
+  ],
+  "author": "Simon Cook",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psycook/SMCAlexaServer/issues"
+  },
+  "homepage": "https://github.com/psycook/SMCAlexaServer#readme"
+}
